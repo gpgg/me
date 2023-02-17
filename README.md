@@ -9,7 +9,7 @@ A markdown editor.
 - React
 - react-markdown
 
-### How to run
+### 🚀 Get Started
 
 ```
 npm install
