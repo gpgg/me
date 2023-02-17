@@ -4,4 +4,16 @@
 
 A markdown editor.
 
+- TypeScript
+- Vite
+- React
+- react-markdown
+
+### How to run
+
+```
+npm install
+npm run dev
+```
+
 [Demo](https://markdow-preview.netlify.app)
